@@ -1,0 +1,16 @@
+# Entornos virtuales
+venv/
+env/
+ENV/
+
+# Archivos de variables de entorno
+.env
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+
+# Archivos de configuración del editor
+.vscode/
+*.sublime-project
+*.sublime-workspace
