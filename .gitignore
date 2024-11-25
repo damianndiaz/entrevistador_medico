@@ -1,0 +1,2 @@
+# Ignorar el archivo .env con las variables de entorno sensibles
+.env
